@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Sosis",
+        "price": "2000.00",
+        "image": "images\/DA7wdg3bIHjRQRlGrrk2JBdE7pjUTA1m9nfVFG61.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Chikuwa",
+        "price": "1000.00",
+        "image": "images\/TtGIjYO0S3BFBl8Ut6jGwN23IQgIlCRQDz4R5Qkp.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Twister",
+        "price": "1000.00",
+        "image": "images\/nAvvmVdxLeXtsn77xf2cdPlZg2VGZJlWM7qb9AWM.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Otak Otak",
+        "price": "1000.00",
+        "image": "images\/t7y5JytZzOpjvKXB55vbDIybPv9oNbqwuykkQQvg.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Kembang Cumi",
+        "price": "1000.00",
+        "image": "images\/068hG6E5qi4WeX9EgkqwAHEELO9Id4KvzfzfDDJE.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Tahu",
+        "price": "1000.00",
+        "image": "images\/UqiYQBxnX1qhbchhir3z3Z4O0IibCKzfV7EjSFc1.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Cilok",
+        "price": "1000.00",
+        "image": "images\/ShjTs5NfdJHlvTmZhkCu49FJaTqnUlBMRWjvVocT.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Baso ikan",
+        "price": "1000.00",
+        "image": "images\/3SPp1pbs0opIiJGqKF3ELoIr92IRjPtXko7jAW6P.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Fish roll",
+        "price": "2000.00",
+        "image": "images\/p3HShkCx8zWy4mUMdhF0V8WiL0L5QTTwrLbya1yq.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Dumpling Keju",
+        "price": "2000.00",
+        "image": "images\/uFlIeKk49ptQTvAYwFhBlod7PMqUZxtcbM61oY2e.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Sosis geboy",
+        "price": "2000.00",
+        "image": "images\/uhDtrO6I2VIMcDMdG8HjPhNLSylQ7Znk1dIBjZOk.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Rolade",
+        "price": "2000.00",
+        "image": "images\/GDpRXNArjOPTUwt9qaTAf1F2X4iWNBcMpyW13BIE.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Odeng",
+        "price": "2000.00",
+        "image": "images\/AGx9KC9MSBS47k3kIx5fcCZiAODncgl1kS5oaivP.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Udang",
+        "price": "2000.00",
+        "image": "images\/JQi5Jf383MAFkzJY6NcwfFwXWxI4bK9VcU10DYHK.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Baso Sapi",
+        "price": "2000.00",
+        "image": "images\/DQctL3B54Ir309Ai6eHkB4fHMOA68B5M4QKnOB7A.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Sosis Merah",
+        "price": "3000.00",
+        "image": "images\/OauPv4gGJnPGqCv2r5WPjbGNA8xAHHuutFPgNd84.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Sosis besar",
+        "price": "5000.00",
+        "image": "images\/InnzAqLcpT2mXDtYELCwoLOeFyiOHtCsE4aR9BTV.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Baso sapi besar",
+        "price": "4000.00",
+        "image": "images\/Wn3aibJTDr43OdhoBhyPjK0tRELipWsqQyxEDcmv.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Jamur Enoki",
+        "price": "2000.00",
+        "image": "images\/GRfjbX3i7XhF2oEFB5yA1Y9IHlIJ13OFCkunNKSO.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Ceker \/ Tulang",
+        "price": "2000.00",
+        "image": "images\/vHogK5JKGAU3HmVqDtcf7FghGdOwN2VF9L0A3Z2A.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Sayap",
+        "price": "5000.00",
+        "image": "images\/JiHsMS4FTApnCQCXYChRHPJKBECUxN7G2OXfgoXY.jpg",
+        "type": "satuan"
+    },
+    {
+        "name": "Sayuran",
+        "price": "1000.00",
+        "image": "images\/ALikmBXmOJO1GB2ETIyzNyNcRoAZPFZ7pVou7mbt.jpg",
+        "type": "satuan"
+    }
+]
